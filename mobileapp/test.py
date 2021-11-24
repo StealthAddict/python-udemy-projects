@@ -1,0 +1,3 @@
+import Kivy
+
+print('hi')
