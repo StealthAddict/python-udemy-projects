@@ -1,0 +1,4 @@
+step 1: make sure pyinstaller is installed
+step 2: call pyinstaller then point to your files/script
+    ex. 'pyinstaller --onefile --windowed script.py'
+    
